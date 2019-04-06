@@ -2,4 +2,15 @@
     <string name="app_name">About Me</string>
     <string name="name">Scott O\'Brien</string>
     <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio" >Hi, my name is Scott.
+        \n\nMy girlfriend\'s name is Erin
+        \n\nI drive a blob eye java black pearl Subaru wrx sti.
+        \nI want to some day own a 240sx or 180sx from japan, hopefully next year.
+        \n\nThis summer I will be moving in to an apartment with my girlfriend and best friend.
+        \nThey are both very important to me and I want us all to succeed in life.
+        \nmy best friends name is Ryan.
+        \nI hope we have many great experiences together this summer, and the following months after!
+        \n\nThis is the end of my bio,
+        \nBest Regards, Scott.</string>
 </resources>
